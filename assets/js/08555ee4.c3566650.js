@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkPartner_API_Guide=self.webpackChunkPartner_API_Guide||[]).push([[1528],{5810:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/partner-api-guide/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

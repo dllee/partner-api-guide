@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkPartner_API_Guide=self.webpackChunkPartner_API_Guide||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/partner-api-guide/ko/blog","blogTitle":"Blog","authorsListPath":"/partner-api-guide/ko/blog/authors"}')}}]);
