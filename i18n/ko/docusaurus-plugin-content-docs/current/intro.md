@@ -1,8 +1,7 @@
 ---
 sidebar_position: 1
 ---
-
-# [Logis] 플랫폼 데이터 연동 API (REST)
+# willog 플랫폼 데이터 연동 API (REST)
 
 ## 목차
 

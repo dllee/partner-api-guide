@@ -4,32 +4,32 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Easy Integration',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Willog's Open API is designed for quick and easy integration by partner companies. 
+        Access powerful features with simple configuration.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Focus on Core Functionality',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Access Willog's core features through our API. We handle the complex logic, 
+        allowing you to focus solely on your business logic.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Flexible Scalability',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Willog's API offers high scalability. Add or customize features as needed 
+        to perfectly fit your business requirements.
       </>
     ),
   },

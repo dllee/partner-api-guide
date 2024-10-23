@@ -1,15 +1,16 @@
 ---
 sidebar_position: 1
 ---
-# [Logis] 플랫폼 데이터 연동 API (REST)
 
-## 목차
+# Willog Platform Data Integration API (REST)
 
-1. 연동 안내
-2. 배송 데이터 업로드
-3. OTQ-배송라벨 매핑
-4. 배송자도착시간 업로드
-5. 배송 상세 조회
-6. OTQ 도착(회수)시 검수
+## Table of Contents
 
-각 API에 대한 자세한 설명은 해당 링크의 문서를 참조하세요.
+1. Connection Guide
+2. Upload Delivery Data
+3. OTQ-Delivery Label Mapping
+4. Upload Delivery Arrival Time
+5. Query Delivery Details
+6. OTQ Arrival (Recovery) Inspection
+
+For detailed explanations of each API, please refer to the documentation at the respective links.
