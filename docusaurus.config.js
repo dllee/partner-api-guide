@@ -13,14 +13,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://조직이름.github.io',
+  url: 'https://dllee.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/Partner-API-Guide/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: '조직이름', // GitHub 조직 이름
+  organizationName: 'dllee', // GitHub 조직 이름
   projectName: 'Partner-API-Guide', // GitHub 저장소 이름
 
   onBrokenLinks: 'throw',
