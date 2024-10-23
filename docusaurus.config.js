@@ -16,12 +16,12 @@ const config = {
   url: 'https://dllee.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Partner-API-Guide/',
+  baseUrl: '/partner-api-guide/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'dllee', // GitHub 조직 이름
-  projectName: 'Partner-API-Guide', // GitHub 저장소 이름
+  projectName: 'partner-api-guide', // GitHub 저장소 이름
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
